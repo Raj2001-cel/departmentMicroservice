@@ -1,6 +1,6 @@
-package com.dailycodebuffer.department.repository;
+package com.apnabill.department.repository;
 
-import com.dailycodebuffer.department.entity.Department;
+import com.apnabill.department.entity.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

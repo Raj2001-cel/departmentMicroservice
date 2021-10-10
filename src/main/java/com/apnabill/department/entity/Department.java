@@ -1,4 +1,4 @@
-package com.dailycodebuffer.department.entity;
+package com.apnabill.department.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

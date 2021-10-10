@@ -1,7 +1,7 @@
-package com.dailycodebuffer.department.service;
+package com.apnabill.department.service;
 
-import com.dailycodebuffer.department.entity.Department;
-import com.dailycodebuffer.department.repository.DepartmentRepository;
+import com.apnabill.department.entity.Department;
+import com.apnabill.department.repository.DepartmentRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
